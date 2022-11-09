@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sohel Rana</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sohel+Rana+👨‍💻" alt="Typing SVG" /></a></h1>
+
 <h3 align="center">A passionate backend developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=About+me!+%F0%9F%A4%A9)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **MERN Stack**
 
